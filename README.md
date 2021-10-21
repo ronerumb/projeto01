@@ -1,7 +1,7 @@
 # projeto01
 Meu primeiro projeto desenvolvido em PHP
 
-Esse projeto tinha como objetivo a importação de dados brutos e a exportação dos mesmos dados, porem de forma resumida
+Esse projeto tinha como objetivo a importação de dados brutos e a exportação dos mesmos dados, porem de forma resumida seguindo layout de importação para um sistema de CRM.
 
 Os dados são incluidos em um banco Mysql, via load data e depois exportados via CSV
 
